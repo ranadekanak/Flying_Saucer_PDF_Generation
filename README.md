@@ -1,5 +1,5 @@
-# Flying Saucer PDF Generation
-------------------------------------
+# Flying Saucer PDF Generation Library
+--------------------------------------
 
 This demo project shows how to generate a nicely styled PDF with Flying Saucer and Thymeleaf templates.
 
